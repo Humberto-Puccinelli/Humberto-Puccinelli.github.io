@@ -1,1 +1,3 @@
-https://app.powerbi.com/view?r=eyJrIjoiZTExMTNmZjgtYzU5OC00ZjE2LWI5YWMtNzAwMDNiODkxNGFhIiwidCI6ImQ4MTMwYWUxLWJlNjQtNDlkNi05Y2E3LTlhNjI5YjA0NGJlMCJ9
+Acesse o dashboard:
+
+https://humberto-puccinelli.github.io/
